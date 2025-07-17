@@ -1,0 +1,88 @@
+Varenyam Singh 24070123126
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+cout<<"Hello World"<<endl;
+
+cout<<"First Program";
+
+return 0;
+
+}
+
+
+
+
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+int num1,num2;
+
+cout<<"Enter the First Number"<<endl;
+
+cin>>num1;
+
+cout<<"Enter The Second number"<<endl;
+
+cin>>num2;
+
+int num3=num1+num2;
+
+cout<<num3<<endl;
+
+return 0;
+
+}
+
+
+
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+float num1,num2;
+
+cout<<"Enter the First Number"<<endl;
+
+cin>>num1;
+
+cout<<"Enter The Second number"<<endl;
+
+cin>>num2;
+
+int num3=num1+num2;
+
+cout<<"Add: "<<num3<<endl;
+
+int nums=num1-num2;
+
+cout<<"Sub: "<<nums<<endl;
+
+int numm=num1*num2;
+
+cout<<"mult: "<<numm<<endl;
+
+float div=num1/num2;
+
+cout<<"div: "<<div<<endl;
+
+return 0;
+
+}
