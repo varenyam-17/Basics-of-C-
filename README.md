@@ -7,34 +7,6 @@ Theory:
 •	The line int main() is the main function where program execution begins.
 •	The next line cout << "Hello World"; causes the message "Hello World" to be displayed on the screen.
 •	The next line return 0; terminates main( )function and causes it to return the value 0 to the calling process.
-Code:
-#include<iostream>
-using namespace std;
-int main()
-{
-    cout<<"Hello World"<<endl;
-    cout<<"First Program";
-    return 0;
-}
-Part 2:
 
-#include<iostream>
-using namespace std;
-int main()
-{
-    float num1,num2;
-    cout<<"Enter the First Number"<<endl;
-    cin>>num1;
-    cout<<"Enter The Second number"<<endl;
-    cin>>num2;
-    int num3=num1+num2;
-    cout<<"Add: "<<num3<<endl;
-    int nums=num1-num2;
-    cout<<"Sub: "<<nums<<endl;
-    int numm=num1*num2;
-    cout<<"mult: "<<numm<<endl;
-    float div=num1/num2;
-    cout<<"div: "<<div<<endl;
-    return 0;
-}
+
 
