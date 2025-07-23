@@ -26,7 +26,8 @@ TOOls USED:
 - cout << "Hello World";: Outputs the string to the console.
 
 - return 0;: Ends the main() function and returns control to the operating system.
-Conclusion
+  
+ Conclusion:
 
 The Hello World program successfully demonstrates the basic structure of a C++ program, including headers, namespaces, comments, and output statements. The calculator extension further reinforces understanding of input/output, arithmetic operations, and control flow. This foundational exercise builds confidence in writing and debugging simple C++ programs.
 
