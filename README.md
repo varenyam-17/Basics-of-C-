@@ -15,7 +15,7 @@ Theory:
 •	The next line return 0; terminates main( )function and causes it to return the value 0 to the calling process.
 TOOls USED:
 - #include <iostream>: Includes the input-output stream library for using cin and cout.
-- 
+  
 -using namespace std;: Allows access to the standard namespace, simplifying code syntax.
 -
 -  // (Single-line comment): Used to annotate code for clarity; ignored during execution.
