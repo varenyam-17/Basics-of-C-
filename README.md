@@ -13,6 +13,7 @@ Theory:
 •	The next line cout << "Hello World"; causes the message "Hello World" to be displayed on the screen.
 
 •	The next line return 0; terminates main( )function and causes it to return the value 0 to the calling process.
+
 TOOls USED:
 - #include <iostream>: Includes the input-output stream library for using cin and cout.
   
