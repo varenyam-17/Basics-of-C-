@@ -16,14 +16,14 @@ Theory:
 TOOls USED:
 - #include <iostream>: Includes the input-output stream library for using cin and cout.
   
--using namespace std;: Allows access to the standard namespace, simplifying code syntax.
--
+- using namespace std;: Allows access to the standard namespace, simplifying code syntax.
+
 -  // (Single-line comment): Used to annotate code for clarity; ignored during execution.
--
+
 - int main(): Entry point of the program where execution begins.
--
+
 - cout << "Hello World";: Outputs the string to the console.
--
+
 - return 0;: Ends the main() function and returns control to the operating system.
 Conclusion
 
